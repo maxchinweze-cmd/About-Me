@@ -1,1 +1,3 @@
 # About-Me
+
+Results-driven Data & Business Intelligence professional skilled in administrative operations, data analysis, and project management. Proficient in transforming complex datasets into actionable insights using Power BI, SQL, and ERP systems to enhance growth and efficiency. Demonstrated success in streamlining workflows, cutting costs, and improving communication in fast-paced settings. Experienced in demand planning and using Agile and Scrum methodologies for timely project delivery. Combines analytical skills with strategic thinking to support data-driven decisions at the leadership level.
